@@ -1,4 +1,3 @@
-# Employee-Management-System
 # Employee Management System
 
 ## Project Title
